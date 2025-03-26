@@ -1,0 +1,9 @@
+code-whisperer/
+│── README.md         # Project overview, setup, examples
+│── whisperer.rb      # Ruby script optimizer & best practice checker
+│── whisperer.py      # Python script optimizer & best practice checker
+│── cli.rb            # CLI interface for Ruby users
+│── cli.py            # CLI interface for Python users
+│── test_samples/     # Sample Ruby & Python scripts for testing
+│── models/           # AI/LLM integration for recommendations
+│── .github/workflows/ # CI/CD pipeline for automated testing
